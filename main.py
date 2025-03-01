@@ -52,6 +52,7 @@ class Assistant:
         return "Sorry, I didn't catch that."
 
 def main():
+    print("Shadi is the best")
     assistant = Assistant(language='ar')
     
     print("Hello! I am your voice assistant. Speak to me.")
